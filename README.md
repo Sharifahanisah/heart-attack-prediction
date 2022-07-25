@@ -22,6 +22,15 @@ From the Categorical Variables:
 From the Continuous Variables:
 >>    variables that are more or equal to 60 % are chosen
 
+From Model Devalopment (plpeline) :
+>>   its found [('Min_Max_Scaler', MinMaxScaler()), ('logistic_Classifier', LogisticRegression())] has the best scaler and classifier this data
+
+From Hyperparameter tuning :
+>>   model.score is 0.7692307692307693
+>>   model best paremeter is {'logistic_Classifier__C': 100, 'logistic_Classifier__penalty': 'l2', 'logistic_Classifier__solver': 'newton-cg'}
 
 ## Accuracy  ##
 ![acc](https://user-images.githubusercontent.com/109563861/180787928-44fddd3e-4e81-410a-b9e1-5f14cb30e99a.PNG)
+
+This app to predict the chance of a person having heart attack is 77% 
+
