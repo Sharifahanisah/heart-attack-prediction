@@ -15,6 +15,13 @@ Heart Attack Analysis & Prediction Dataset :https://www.kaggle.com/datasets/rash
 
 In this model training 'age','cp','thall','thalachh','oldpeak' has higher correlation with output 
 
+###
+From the Categorical Variables:
+>>    Variables that are more or equal to 50 % are chosen
+
+From the Continuous Variables:
+>>    variables that are more or equal to 60 % are chosen
+
 
 ## Accuracy  ##
 ![acc](https://user-images.githubusercontent.com/109563861/180787928-44fddd3e-4e81-410a-b9e1-5f14cb30e99a.PNG)
