@@ -34,3 +34,8 @@ From Hyperparameter tuning :
 
 This app to predict the chance of a person having heart attack is 77% 
 
+Machine Learning Model is Performing Poorly:
+>>    *  May due to dataset contains a target class imbalance 
+>>    
+>>    * measuring of results with a less than ideal metric
+
